@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">AppDev</string>
+    <string name="cartButton">This is cartButton</string>
+    <string name="accountButton">This is accountButton</string>
+    <string name="historyButton">This is historyButton</string>
+    <string name="footwear">This is footwearDisplay</string>
+    <string name="upperwear">This is upperwearDisplay</string>
+    <string name="bottomwear">This is bottomwearDisplay</string>
+    <string name="getStarted">Get Started</string>
+    <string name="AMLFit">This is AML</string>
+    <string name="apparelItem">This is apparel item</string>
+
+    <string name="username">This is AML</string>
+
+
+    <string-array name="colors">
+        <item>Brown</item>
+        <item>Black</item>
+        <item>White</item>
+    </string-array>
+    <string-array name="size">
+        <item>Small</item>
+        <item>Medium</item>
+        <item>Large</item>
+        <item>XL</item>
+    </string-array>
+
+
+</resources>
